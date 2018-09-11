@@ -1,4 +1,28 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
+body {
+  color: green;
+}
+
+a {
+  color: orange;
+}
+
+.more-text {
+  color: gray;
+}
+
+#title {
+  color: blue;
+}
+
+.important,
+.important a {
+  color: red;
+}
+
+#second {
+  color: pink;
+}
