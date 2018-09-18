@@ -2,3 +2,50 @@
     box-sizing: border-box;
 }
 
+body {
+	color:black;
+	max-width:2000px;
+    font-size: 24px;
+    line-height: 50px;
+    font-weight:normal;
+    font-family: 'Helvetica', sans-serif;
+    letter-spacing: 0.1px;
+    text-transform: uppercase;
+}
+a{
+	color:black;
+}
+.more-text {
+	color:black;
+}
+
+a#title{
+	color:red;
+	text-align:center;
+	display:block;
+	font-size:64px;
+}
+
+#first{
+	color:black;
+	text-align:center;
+
+
+}
+
+#second {
+	color:black;
+	text-align:center;
+}
+#third {
+	color:black;
+	text-align:center;
+}
+#fourth {
+	color:black;
+	text-align:center;
+}
+#fifth {
+	color:black;
+	text-align:center;
+}
